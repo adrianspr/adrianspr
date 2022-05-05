@@ -2,7 +2,7 @@
 
 <div>
 <a href="https://instagram.com/adrianspr_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:adrianfariaspr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"                 target="_blank"></a>
+<a href = "mailto:adrianfariaspr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"             target="_blank"></a>
 <a href="https://www.linkedin.com/in/adrianspr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&   logoColor=white" target="_blank"></a> 
 </div>
 
@@ -10,7 +10,7 @@
 
 - 🔎 Buscando novas oportunidades profissionais.
 - 👨🏻‍🎓 Cursando o 2º semestre de Técnico em Informática.
-- 💡 Apendendo mais sobre algumas linguagens de programação/marcação que me interessam.
+- 💡  Estudando algumas linguagens de programação/marcação que me interessam.
 
 #### Algumas linguagens que já estou aprendendo:
 <div>
