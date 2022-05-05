@@ -18,7 +18,7 @@
 - 💡  Estudando algumas linguagens de programação/marcação que me interessam.
   
 <table>
-  <th>Algumas linguagens que já estou aprendendo:</th>
+  <th align="left">Algumas linguagens que já estou aprendendo:</th>
     <tr><td>  
       <div>
         <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,7 +26,7 @@
         <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
       </div>
     </tr></td> 
-  <th>Linguagens que quero aprender:</th>  
+  <th align="left">Linguagens que quero aprender:</th>  
     <tr><td>
       <div>
         <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
@@ -40,7 +40,7 @@
         <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/>
       </div>  
     </tr></td>
-  <th>Outras ferramentas, sistemas e programas que me interesso:</th>
+  <th align="left">Outras ferramentas, sistemas e programas que me interesso:</th>
     <tr><td>
       <div>
         <img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>
