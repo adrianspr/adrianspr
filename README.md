@@ -10,7 +10,7 @@
 
 - 🔎 Buscando novas oportunidades profissionais.
 - 👨🏻‍🎓 Cursando o 2º semestre de Técnico em Informática.
-- 💡 Interessado em aprender mais sobre algumas linguagens de programação/marcação.
+- 💡 Apendendo mais sobre algumas linguagens de programação/marcação que me interessam.
 
 #### Linguagens que estou aprendendo:
 <div>
