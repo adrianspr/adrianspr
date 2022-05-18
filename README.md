@@ -12,14 +12,16 @@
     <a href="https://github.com/adrianspr"></a>
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianspr&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
    </div>  
+   
+#### Atualmente estou...
   
   <div>
-    #### Atualmente estou...
-
-    - 🔎 Buscando novas oportunidades profissionais.
-    - 👨🏻‍🎓 Cursando o 2º semestre de Técnico em Informática.
+    - 🔎 Buscando novas oportunidades profissionais.</br>
+    - 👨🏻‍🎓 Cursando o 2º semestre de Técnico em Informática.</br>
     - 💡  Estudando algumas linguagens de programação/marcação que me interessam.
   </div>
+  
+  </br>
   
   <div>
     <table>
